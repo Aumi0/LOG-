@@ -2,8 +2,8 @@ import os
 import shutil
 import random
 
-# put the folder you want to play( dont put folder while eating gamja 🚭
-folder_path = "/path/to/folder"
+# take input from user for the folder they want to delete
+folder_path = input("Enter the path of the folder you want to delete: ")
 
 # here is the bullets 
 random_number = random.randint(0, 5)
