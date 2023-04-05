@@ -12,4 +12,4 @@ Have you ever heard the game called Russian roulette
 
 3.If the chamber containing the bullet fires, the player loses the game and typically dies.
 
-Instead you can play with your  fav folder
+Instead you can play with your  favourite  folder
